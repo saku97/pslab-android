@@ -40,11 +40,9 @@ dependencies {
     implementation "com.android.support:support-v4:$rootProject.supportLibraryVersion"
     implementation "com.android.support:preference-v14:$rootProject.supportLibraryVersion"
     implementation "com.android.support:customtabs:$rootProject.supportLibraryVersion"
-
+     implementation "de.hdodenhof:circleimageview:$rootProject.circleImageViewVersion"
     implementation "com.android.support.constraint:constraint-layout:$rootProject.constraintLayoutVersion"
     implementation "com.github.PhilJay:MPAndroidChart:$rootProject.mpAndroidChartVersion"
-    implementation "com.github.bmelnychuk:atv:$rootProject.atvVersion"
-    implementation "de.hdodenhof:circleimageview:$rootProject.circleImageViewVersion"
     implementation "org.apache.commons:commons-math3:$rootProject.commonMathVersion"
     implementation "org.apache.commons:commons-lang3:$rootProject.commonLangVersion"
     implementation "com.squareup.picasso:picasso:$rootProject.picassoVersion"
